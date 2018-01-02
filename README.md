@@ -5,9 +5,7 @@
 3. 'CSVFILES/annotations.csv' contains information about the location of nodules in LUNA16 dataset
 4. nodules_2 folder contains the training-data of nodule-detector
 
-### Used 3 methods
-1. Directly feeding the kaggle data the CNN
-
+### Used 2 methods
 
 ## 1. Directly feeding to the network
 Uses stage1_labels.csv and dataset of the patients must be in data folder
