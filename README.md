@@ -1,9 +1,9 @@
 # Lung Cancer detection using Deep Learning
-## This is an attempt for Kaggle-Data-Science Bowl 2017, for solving this data from LUNA16 Grand Challenge was also used
-## 1. 'data' folder must contain data from Kaggle Challenge, if using sample dataset, then there must be 19 patients
-## 2. 'subset0' folder contains data from first subset of LUNA16 dataset
-## 3. 'CSVFILES/annotations.csv' contains information about the location of nodules in LUNA16 dataset
-## 4. nodules_2 folder contains the training-data of nodule-detector
+ This is an attempt for Kaggle-Data-Science Bowl 2017, for solving this data from LUNA16 Grand Challenge was also used
+1. 'data' folder must contain data from Kaggle Challenge, if using sample dataset, then there must be 19 patients
+2. 'subset0' folder contains data from first subset of LUNA16 dataset
+3. 'CSVFILES/annotations.csv' contains information about the location of nodules in LUNA16 dataset
+4. nodules_2 folder contains the training-data of nodule-detector
 
 ### Used 3 methods
 1. Directly feeding the kaggle data the CNN
